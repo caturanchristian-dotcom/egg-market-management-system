@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 250px;
+    height: 100vh;
+    background: #198754;
+}
+
+/* Content */
+.content {
+    background: #f4fff4;
+}
+
+/* Cards */
+.card {
+    border-radius: 12px;
+}
+
+/* Hover effect */
+.nav-link:hover {
+    background: rgba(255,255,255,0.2);
+}
