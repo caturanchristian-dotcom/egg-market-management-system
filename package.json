@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/caturanchristian-dotcom/egg-market-management-system/issues"
   },
-  "homepage": "https://github.com/caturanchristian-dotcom/egg-market-management-system#readme"
+  "homepage": "https://github.com/caturanchristian-dotcom/egg-market-management-system#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.22.1"
+  }
 }
